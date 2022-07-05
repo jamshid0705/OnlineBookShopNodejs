@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name":"jamshid",
+    "surname":"xatamov",
+    "login":"jx1111",
+    "parol":"1111"
+  },
+  {
+    "id": 1,
+    "name":"samandar",
+    "surname":"qodirqulov",
+    "login":"sq2222",
+    "parol":"2222"
+  },
+  {
+    "id": 2,
+    "name":"umid",
+    "surname":"rustamov",
+    "login":"ur3333",
+    "parol":"3333"
+  }
+]
